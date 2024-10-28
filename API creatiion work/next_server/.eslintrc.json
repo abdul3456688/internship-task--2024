@@ -1,0 +1,8 @@
+{
+    "extends": ["next/core-web-vitals", "next/typescript", "plugin:prettier/recommended"],
+    "rules": {
+        "no-console": "error", // Disallow console logs
+        "prettier/prettier": ["error"] // Integrate Prettier with ESLint
+    }
+}
+
