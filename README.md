@@ -23,7 +23,7 @@ git clone https://github.com/Coderatory-s/internship-task--2024.git
 Create a new branch with your name. This will help us keep track of individual submissions:
 
 ```bash
-git checkout -b <your-name>
+git branch  <your-name>
 ```
 
 ### Step 3: Check Out to Your Branch
